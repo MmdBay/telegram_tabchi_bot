@@ -66,7 +66,7 @@ exports.morningSender = async () => {
 
 **📅تاریخ امروز : ${allDataMorning.emroze_date} ${allDataMorning.emroze_day}**
 
-**@Moshavere_beheshti 🌾**
+** 🌾**
 
 📚`);
                         await page.focus('#column-center > div > div > div.chat-input.chat-input-main > div > div.rows-wrapper-wrapper > div > div.new-message-wrapper.rows-wrapper-row > div.input-message-container > div:nth-child(1)');
